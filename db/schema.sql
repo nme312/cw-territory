@@ -23,7 +23,6 @@ create table territory_lw(
     due_date datetime,
     time_overdue datetime,
     territory_status boolean,
-    territory_rank boolean,
     primary key (id)
 )
 
